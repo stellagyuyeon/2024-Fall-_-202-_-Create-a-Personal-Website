@@ -4,52 +4,37 @@
       "title": "Product Manager",
       "company": "SK Telecom",
       "employment_type": "Full-time",
-      "duration": {
-        "start_date": "2018-07",
-        "end_date": "I have been on educational leave sinc August 2024.",
-        "Duration": "6 years, 3 months"
-      },
+      "duration": "July 2018 - August 2024",
       "location": "Seoul, South Korea"
     },
     {
       "title": "Product Manager",
       "company": "NAVER LABS Corp.",
       "employment_type": "Intern",
-      "duration": {
-        "Date": "2018-03 to 2018-06",
-        "Duration": "4 months"
-      },
+      "duration": "March 2018 - June 2018",
       "location": "Gyeonggi, South Korea"
     },
     {
       "title": "UX Researcher",
       "company": "Noom Inc.",
       "employment_type": "Intern",
-      "duration": {
-        "Date": "2017-08 to 2017-12",
-        "Duration": "5 months"
-      },
+      "duration": "August 2017 - December 2017",
       "location": "Seoul, South Korea"
     },
     {
       "title": "Summer Intern (Researcher)",
       "company": "Seoul National University UX Lab",
       "employment_type": "Intern",
-      "duration": {
-        "Date": "2017-05 to 2017-08",
-        "Duration": "4 months"
-      },
+      "duration": "May 2017 - August 2017",
       "location": "Seoul, South Korea"
     },
     {
       "title": "Designer",
       "company": "Ten Fingers",
       "employment_type": "Intern",
-      "duration": {
-        "Date": "2016-11 to 2017-03",
-        "Duration": "5 months"
-      },
+      "duration": "November 2016 - March 2017",
       "location": "Seoul, South Korea"
     }
   ]
 }
+
